@@ -1,0 +1,70 @@
+body {
+    padding: 20px;
+    color: #5a5a5a;
+}
+
+.navbar-wrapper{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+}
+
+.footer{
+    margin: 0 100px;
+}
+.hobo{
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+
+.mick{
+    margin-bottom: 70px;
+    text-align: center;
+}
+.mickey{
+    padding: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.carousal{
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.img-circle{
+    border-radius: 70px;
+}
+
+.content{
+    margin-top: 50px;
+}
+.team{
+    margin-top: 50px;
+}
+.carousal .item{
+    height: 500px;
+    background-color: #777;
+}
+
+.team.col-lg-4 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.team h2 {
+    color: rgba(50,50,50,0.8)
+}
+
+.team p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.carousal-inner > .item > img{
+    position: absolute;
+    height: 500px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+}
